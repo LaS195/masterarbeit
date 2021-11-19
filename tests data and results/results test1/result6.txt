@@ -1,0 +1,25 @@
+RESULTS OF s298_d2_s.qdimacs:
+width of primalgraph: 350
+width of networkx bipartite graph after transformation: 9
+width of flowcutter bipartite graph after transformation: 9
+
+RESULTS OF stmt17_18_19.qdimacs:
+width of primalgraph: 15
+width of networkx bipartite graph after transformation: 11
+width of flowcutter bipartite graph after transformation: 11
+
+RESULTS OF s27_d5_u.qdimacs:
+width of primalgraph: 103
+width of networkx bipartite graph after transformation: 5
+width of flowcutter bipartite graph after transformation: 5
+
+RESULTS OF s27_d4_u.qdimacs:
+width of primalgraph: 77
+width of networkx bipartite graph after transformation: 5
+width of flowcutter bipartite graph after transformation: 5
+
+RESULTS OF s01238_PR_8_2.qdimacs:
+width of primalgraph: 52
+width of networkx bipartite graph after transformation: 56
+width of flowcutter bipartite graph after transformation: 43
+

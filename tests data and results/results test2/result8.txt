@@ -1,0 +1,40 @@
+RESULTS OF toilet_a_02_10.2:
+number of variables: 90 - 62
+number of clauses: 408 - 54
+dynQBF width: 11 - 4
+dynQBF result: SAT - SAT
+avg. runtime original: 0.0674248218536377 s
+avg. runtime new: 0.04942193031311035 s
+
+RESULTS OF z4ml.blif_0.10_0.20_0_1_inp_exact:
+number of variables: 65 - 142
+number of clauses: 193 - 262
+dynQBF width: 11 - 11
+dynQBF result: SAT - SAT
+avg. runtime original: 0.06592273712158203 s
+avg. runtime new: 0.08460047245025634 s
+
+RESULTS OF impl08:
+number of variables: 34 - 71
+number of clauses: 66 - 71
+dynQBF width: 3 - 3
+dynQBF result: SAT - SAT
+avg. runtime original: 0.03905494213104248 s
+avg. runtime new: 0.05527243614196777 s
+
+RESULTS OF s27_d3_u:
+number of variables: 165 - 188
+number of clauses: 254 - 225
+dynQBF width: 29 - 6
+dynQBF result: UNSAT - UNSAT
+avg. runtime original: 0.10828421115875245 s
+avg. runtime new: 0.10923876762390136 s
+
+RESULTS OF z4ml.blif_0.10_1.00_0_1_out_exact:
+number of variables: 64 - 141
+number of clauses: 196 - 249
+dynQBF width: 11 - 10
+dynQBF result: SAT - SAT
+avg. runtime original: 0.06297464370727539 s
+avg. runtime new: 0.08164196014404297 s
+

@@ -1,0 +1,25 @@
+RESULTS OF toilet_a_02_10.2.qdimacs:
+width of primalgraph: 11
+width of networkx bipartite graph after transformation: 3
+width of flowcutter bipartite graph after transformation: 3
+
+RESULTS OF z4ml.blif_0.10_0.20_0_1_inp_exact.qdimacs:
+width of primalgraph: 11
+width of networkx bipartite graph after transformation: 9
+width of flowcutter bipartite graph after transformation: 10
+
+RESULTS OF impl08.qdimacs:
+width of primalgraph: 3
+width of networkx bipartite graph after transformation: 3
+width of flowcutter bipartite graph after transformation: 3
+
+RESULTS OF s27_d3_u.qdimacs:
+width of primalgraph: 51
+width of networkx bipartite graph after transformation: 5
+width of flowcutter bipartite graph after transformation: 5
+
+RESULTS OF z4ml.blif_0.10_1.00_0_1_out_exact.qdimacs:
+width of primalgraph: 11
+width of networkx bipartite graph after transformation: 9
+width of flowcutter bipartite graph after transformation: 10
+

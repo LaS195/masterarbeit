@@ -1,0 +1,40 @@
+RESULTS OF cmu.dme1.B-d3:
+number of variables: 116 - 301
+number of clauses: 268 - 349
+dynQBF width: 6 - 6
+dynQBF result: SAT - SAT
+avg. runtime original: 0.07147469520568847 s
+avg. runtime new: 0.12122848033905029 s
+
+RESULTS OF b12_PR_9_2:
+number of variables: 1026 - 648
+number of clauses: 2890 - 1238
+dynQBF width: 56 - 38
+dynQBF result: SAT - SAT
+avg. runtime original: 11.339163446426392 s
+avg. runtime new: 0.48454101085662843 s
+
+RESULTS OF C499.blif_0.10_0.20_0_0_out_exact:
+number of variables: 838 - 1239
+number of clauses: 2393 - 2730
+dynQBF width: 47 - 44
+dynQBF result: UNSAT - UNSAT
+avg. runtime original: 34.30367510318756 s
+avg. runtime new: 16.32755446434021 s
+
+RESULTS OF BLOCKS3ii.4.3:
+number of variables: 247 - 647
+number of clauses: 2533 - 1035
+dynQBF width: 91 - 42
+dynQBF result: UNSAT - UNSAT
+avg. runtime original: 3.780594086647034 s
+avg. runtime new: 1.1202236890792847 s
+
+RESULTS OF C499.blif_0.10_1.00_0_1_inp_exact:
+number of variables: 893 - 1275
+number of clauses: 2586 - 2894
+dynQBF width: 42 - 45
+dynQBF result: SAT - SAT
+avg. runtime original: 0.9406240940093994 s
+avg. runtime new: 1.2589804649353027 s
+

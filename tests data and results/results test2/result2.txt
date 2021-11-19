@@ -1,0 +1,40 @@
+RESULTS OF impl18:
+number of variables: 74 - 187
+number of clauses: 146 - 187
+dynQBF width: 3 - 3
+dynQBF result: SAT - SAT
+avg. runtime original: 0.05828413963317871 s
+avg. runtime new: 0.0988511323928833 s
+
+RESULTS OF impl10:
+number of variables: 42 - 93
+number of clauses: 82 - 93
+dynQBF width: 3 - 3
+dynQBF result: SAT - SAT
+avg. runtime original: 0.04224374294281006 s
+avg. runtime new: 0.06095271110534668 s
+
+RESULTS OF k_dum_n-3:
+number of variables: 214 - 537
+number of clauses: 522 - 836
+dynQBF width: 19 - 18
+dynQBF result: SAT - SAT
+avg. runtime original: 0.26280395984649657 s
+avg. runtime new: 0.535241174697876 s
+
+RESULTS OF k_dum_p-2:
+number of variables: 175 - 537
+number of clauses: 451 - 808
+dynQBF width: 26 - 22
+dynQBF result: UNSAT - UNSAT
+avg. runtime original: 0.29990248680114745 s
+avg. runtime new: 0.5275925874710083 s
+
+RESULTS OF k_branch_n-2:
+number of variables: 294 - 806
+number of clauses: 793 - 1268
+dynQBF width: 28 - 24
+dynQBF result: SAT - SAT
+avg. runtime original: 0.5499619245529175 s
+avg. runtime new: 1.1635865926742555 s
+

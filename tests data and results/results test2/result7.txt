@@ -1,0 +1,40 @@
+RESULTS OF test3_quant_squaring4:
+number of variables: 657 - 666
+number of clauses: 1203 - 847
+dynQBF width: 37 - 30
+dynQBF result: UNSAT - UNSAT
+avg. runtime original: 83.33166346549987 s
+avg. runtime new: 5.091729092597961 s
+
+RESULTS OF test1_quant_squaring2:
+number of variables: 1006 - 1048
+number of clauses: 1924 - 1347
+dynQBF width: 51 - 46
+dynQBF result: SAT - SAT
+avg. runtime original: 22.580896043777464 s
+avg. runtime new: 38.44697453975677 s
+
+RESULTS OF szymanski-5-s:
+number of variables: 4634 - 3374
+number of clauses: 1388 - 3556
+dynQBF width: 34 - 41
+dynQBF result: UNSAT - UNSAT
+avg. runtime original: 2.1061100721359254 s
+avg. runtime new: 5.177411913871765 s
+
+RESULTS OF stmt24_765_766:
+number of variables: 728 - 1464
+number of clauses: 2370 - 2551
+dynQBF width: 17 - 17
+dynQBF result: SAT - SAT
+avg. runtime original: 0.3226341962814331 s
+avg. runtime new: 0.5532095909118653 s
+
+RESULTS OF test3_quant_squaring2:
+number of variables: 349 - 314
+number of clauses: 643 - 473
+dynQBF width: 25 - 23
+dynQBF result: UNSAT - UNSAT
+avg. runtime original: 0.3492249011993408 s
+avg. runtime new: 0.34624686241149905 s
+

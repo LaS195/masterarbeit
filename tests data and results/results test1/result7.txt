@@ -1,0 +1,25 @@
+RESULTS OF test3_quant_squaring4.qdimacs:
+width of primalgraph: 32
+width of networkx bipartite graph after transformation: 34
+width of flowcutter bipartite graph after transformation: 32
+
+RESULTS OF test1_quant_squaring2.qdimacs:
+width of primalgraph: 49
+width of networkx bipartite graph after transformation: 45
+width of flowcutter bipartite graph after transformation: 35
+
+RESULTS OF szymanski-5-s.qdimacs:
+width of primalgraph: 32
+width of networkx bipartite graph after transformation: 19
+width of flowcutter bipartite graph after transformation: 21
+
+RESULTS OF stmt24_765_766.qdimacs:
+width of primalgraph: 17
+width of networkx bipartite graph after transformation: 17
+width of flowcutter bipartite graph after transformation: 16
+
+RESULTS OF test3_quant_squaring2.qdimacs:
+width of primalgraph: 23
+width of networkx bipartite graph after transformation: 23
+width of flowcutter bipartite graph after transformation: 21
+

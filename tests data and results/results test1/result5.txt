@@ -1,0 +1,25 @@
+RESULTS OF query01_ntrivil_1344.qdimacs:
+width of primalgraph: 29
+width of networkx bipartite graph after transformation: 33
+width of flowcutter bipartite graph after transformation: 23
+
+RESULTS OF mutex-8-s.qdimacs:
+width of primalgraph: 16
+width of networkx bipartite graph after transformation: 14
+width of flowcutter bipartite graph after transformation: 14
+
+RESULTS OF mutex-16-s.qdimacs:
+width of primalgraph: 16
+width of networkx bipartite graph after transformation: 14
+width of flowcutter bipartite graph after transformation: 15
+
+RESULTS OF rewriting_k_25.qdimacs:
+width of primalgraph: 25
+width of networkx bipartite graph after transformation: 31
+width of flowcutter bipartite graph after transformation: 26
+
+RESULTS OF rewriting_k_19.qdimacs:
+width of primalgraph: 19
+width of networkx bipartite graph after transformation: 23
+width of flowcutter bipartite graph after transformation: 20
+

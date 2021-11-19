@@ -1,0 +1,40 @@
+RESULTS OF s298_d2_s:
+number of variables: 853 - 969
+number of clauses: 1895 - 1148
+dynQBF width: 77 - 9
+dynQBF result: SAT - SAT
+avg. runtime original: 3.268656539916992 s
+avg. runtime new: 0.463907527923584 s
+
+RESULTS OF stmt17_18_19:
+number of variables: 194 - 459
+number of clauses: 623 - 628
+dynQBF width: 20 - 12
+dynQBF result: SAT - SAT
+avg. runtime original: 0.10698502063751221 s
+avg. runtime new: 0.1499115228652954 s
+
+RESULTS OF s27_d5_u:
+number of variables: 403 - 381
+number of clauses: 478 - 460
+dynQBF width: 30 - 7
+dynQBF result: UNSAT - UNSAT
+avg. runtime original: 0.2270759105682373 s
+avg. runtime new: 0.2610801935195923 s
+
+RESULTS OF s27_d4_u:
+number of variables: 271 - 286
+number of clauses: 366 - 344
+dynQBF width: 22 - 6
+dynQBF result: UNSAT - UNSAT
+avg. runtime original: 0.1548548460006714 s
+avg. runtime new: 0.17920188903808593 s
+
+RESULTS OF s01238_PR_8_2:
+number of variables: 1081 - 724
+number of clauses: 3076 - 1211
+dynQBF width: 65 - 33
+dynQBF result: SAT - SAT
+avg. runtime original: 108.5874716758728 s
+avg. runtime new: 3.577405309677124 s
+

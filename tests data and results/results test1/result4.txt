@@ -1,0 +1,25 @@
+RESULTS OF lut4_XOR_fOR.qdimacs:
+width of primalgraph: 19
+width of networkx bipartite graph after transformation: 19
+width of flowcutter bipartite graph after transformation: 19
+
+RESULTS OF k_path_n-9.qdimacs:
+width of primalgraph: 22
+width of networkx bipartite graph after transformation: 14
+width of flowcutter bipartite graph after transformation: 14
+
+RESULTS OF lut4_XOR_f1.qdimacs:
+width of primalgraph: 19
+width of networkx bipartite graph after transformation: 19
+width of flowcutter bipartite graph after transformation: 19
+
+RESULTS OF k_poly_p-7.qdimacs:
+width of primalgraph: 31
+width of networkx bipartite graph after transformation: 9
+width of flowcutter bipartite graph after transformation: 9
+
+RESULTS OF k_path_p-13.qdimacs:
+width of primalgraph: 22
+width of networkx bipartite graph after transformation: 14
+width of flowcutter bipartite graph after transformation: 14
+

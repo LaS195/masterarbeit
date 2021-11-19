@@ -1,0 +1,40 @@
+RESULTS OF k_lin_p-12:
+number of variables: 636 - 1933
+number of clauses: 3286 - 4500
+dynQBF width: 105 - 85
+dynQBF result: UNSAT - UNSAT
+avg. runtime original: 1332.1702208995819 s
+avg. runtime new: 66.76602640151978 s
+
+RESULTS OF k_dum_p-3:
+number of variables: 175 - 537
+number of clauses: 451 - 808
+dynQBF width: 23 - 17
+dynQBF result: UNSAT - UNSAT
+avg. runtime original: 0.2403803586959839 s
+avg. runtime new: 0.49359023571014404 s
+
+RESULTS OF k_dum_p-12:
+number of variables: 517 - 1424
+number of clauses: 1352 - 2243
+dynQBF width: 22 - 18
+dynQBF result: UNSAT - UNSAT
+avg. runtime original: 1.3285702466964722 s
+avg. runtime new: 10.470611596107483 s
+
+RESULTS OF k_path_n-5:
+number of variables: 384 - 1374
+number of clauses: 1051 - 2023
+dynQBF width: 22 - 14
+dynQBF result: SAT - SAT
+avg. runtime original: 0.3193356037139893 s
+avg. runtime new: 1.225231671333313 s
+
+RESULTS OF k_path_n-4:
+number of variables: 324 - 1124
+number of clauses: 888 - 1669
+dynQBF width: 22 - 13
+dynQBF result: SAT - SAT
+avg. runtime original: 0.22175631523132325 s
+avg. runtime new: 0.8902053833007812 s
+

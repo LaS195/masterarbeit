@@ -1,0 +1,25 @@
+RESULTS OF cmu.dme1.B-d3.qdimacs:
+width of primalgraph: 7
+width of networkx bipartite graph after transformation: 5
+width of flowcutter bipartite graph after transformation: 5
+
+RESULTS OF b12_PR_9_2.qdimacs:
+width of primalgraph: 50
+width of networkx bipartite graph after transformation: 47
+width of flowcutter bipartite graph after transformation: 38
+
+RESULTS OF C499.blif_0.10_0.20_0_0_out_exact.qdimacs:
+width of primalgraph: 66
+width of networkx bipartite graph after transformation: 43
+width of flowcutter bipartite graph after transformation: 42
+
+RESULTS OF BLOCKS3ii.4.3.qdimacs:
+width of primalgraph: 53
+width of networkx bipartite graph after transformation: 52
+width of flowcutter bipartite graph after transformation: 47
+
+RESULTS OF C499.blif_0.10_1.00_0_1_inp_exact.qdimacs:
+width of primalgraph: 58
+width of networkx bipartite graph after transformation: 42
+width of flowcutter bipartite graph after transformation: 44
+

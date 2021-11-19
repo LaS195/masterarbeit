@@ -1,0 +1,40 @@
+RESULTS OF lut4_XOR_fOR:
+number of variables: 43 - 119
+number of clauses: 168 - 244
+dynQBF width: 19 - 19
+dynQBF result: UNSAT - UNSAT
+avg. runtime original: 0.2872738838195801 s
+avg. runtime new: 0.16826035976409912 s
+
+RESULTS OF k_path_n-9:
+number of variables: 660 - 2495
+number of clauses: 1827 - 3644
+dynQBF width: 22 - 14
+dynQBF result: SAT - SAT
+avg. runtime original: 1.3224135637283325 s
+avg. runtime new: 4.448227906227112 s
+
+RESULTS OF lut4_XOR_f1:
+number of variables: 43 - 119
+number of clauses: 168 - 244
+dynQBF width: 19 - 19
+dynQBF result: SAT - SAT
+avg. runtime original: 0.55450918674469 s
+avg. runtime new: 0.14191195964813233 s
+
+RESULTS OF k_poly_p-7:
+number of variables: 573 - 1126
+number of clauses: 1292 - 1744
+dynQBF width: 32 - 14
+dynQBF result: UNSAT - UNSAT
+avg. runtime original: 0.6595891714096069 s
+avg. runtime new: 1.5115209579467774 s
+
+RESULTS OF k_path_p-13:
+number of variables: 877 - 3336
+number of clauses: 2444 - 4884
+dynQBF width: 22 - 16
+dynQBF result: UNSAT - UNSAT
+avg. runtime original: 2.1235424280166626 s
+avg. runtime new: 12.297774028778075 s
+

@@ -1,0 +1,40 @@
+RESULTS OF query01_ntrivil_1344:
+number of variables: 203 - 318
+number of clauses: 344 - 459
+dynQBF width: 30 - 30
+dynQBF result: UNSAT - UNSAT
+avg. runtime original: 1.2030585289001465 s
+avg. runtime new: 1.2969634294509889 s
+
+RESULTS OF mutex-8-s:
+number of variables: 2017 - 1537
+number of clauses: 835 - 1722
+dynQBF width: 15 - 15
+dynQBF result: SAT - SAT
+avg. runtime original: 0.23948628902435304 s
+avg. runtime new: 0.4267568826675415 s
+
+RESULTS OF mutex-16-s:
+number of variables: 3961 - 3125
+number of clauses: 1779 - 3526
+dynQBF width: 17 - 17
+dynQBF result: SAT - SAT
+avg. runtime original: 0.6444506883621216 s
+avg. runtime new: 1.1302892446517945 s
+
+RESULTS OF rewriting_k_25:
+number of variables: 54 - 54
+number of clauses: 156 - 55
+dynQBF width: 28 - 26
+dynQBF result: UNSAT - UNSAT
+avg. runtime original: 0.0830000400543213 s
+avg. runtime new: 0.05896766185760498 s
+
+RESULTS OF rewriting_k_19:
+number of variables: 42 - 51
+number of clauses: 120 - 52
+dynQBF width: 22 - 19
+dynQBF result: UNSAT - UNSAT
+avg. runtime original: 0.0744858980178833 s
+avg. runtime new: 0.0693894863128662 s
+

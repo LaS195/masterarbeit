@@ -1,0 +1,25 @@
+RESULTS OF impl18.qdimacs:
+width of primalgraph: 3
+width of networkx bipartite graph after transformation: 3
+width of flowcutter bipartite graph after transformation: 3
+
+RESULTS OF impl10.qdimacs:
+width of primalgraph: 3
+width of networkx bipartite graph after transformation: 3
+width of flowcutter bipartite graph after transformation: 3
+
+RESULTS OF k_dum_n-3.qdimacs:
+width of primalgraph: 19
+width of networkx bipartite graph after transformation: 13
+width of flowcutter bipartite graph after transformation: 15
+
+RESULTS OF k_dum_p-2.qdimacs:
+width of primalgraph: 21
+width of networkx bipartite graph after transformation: 16
+width of flowcutter bipartite graph after transformation: 16
+
+RESULTS OF k_branch_n-2.qdimacs:
+width of primalgraph: 28
+width of networkx bipartite graph after transformation: 18
+width of flowcutter bipartite graph after transformation: 18
+
